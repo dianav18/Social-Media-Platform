@@ -6,7 +6,7 @@
         "name": "Distance",
         "status": "0",
         "log": "",
-        "time_normal": 0.0,
+        "time_normal": 0.005343479,
         "time_valgrind": 0.0,
         "timeout": 30000,
         "test_score": 3
@@ -106,9 +106,9 @@
       {
         "id": 0,
         "name": "Post/Repost",
-        "status": "0",
-        "log": "",
-        "time_normal": 0.0,
+        "status": "CRASHED",
+        "log": "Created post \"@realDonaldTrump Did you really start mewing to skibidi ohio? Are you a sigma or did you get fandum taxxed\" for Emil\nCreated post \"Pamantul este plat!\" for Octav\nCreated post \"STEAUA27\" for Daiana\nCreated post \"Ai incercat cu otel galvanizat?\" for Tiberiu\nCreated post \"Sper sa iau licenta anul asta\" for Caius\nCreated repost #6 for Voicu\nCreated repost #7 for Lica\nCreated repost #8 for Viorica\nCreated repost #9 for Claudia\nCreated repost #10 for Silvana\nCreated repost #11 for Amza\nCreated repost #12 for Ludovica\nCreated repost #13 for Codrut\nCreated repost #14 for Artemisa\nCreated repost #15 for Mirabela\n11 (SIGSEGV)",
+        "time_normal": 0.005947233,
         "time_valgrind": 0.0,
         "timeout": 30000,
         "test_score": 3
